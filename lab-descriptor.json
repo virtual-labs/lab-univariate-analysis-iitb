@@ -12,70 +12,70 @@
     "introduction": "To provide support to the classroom teaching to understand the Numerical Methods in a better way.Numerical Methods is the branch of mathematics to find numerical solutions to complex Mathematical problems. Most Mathematical problems from science and engineering are very complex and sometimes challenging to solve directly. Due to the great advances in computational technology, numerical methods have become very popular and is a modern tool for scientists and engineers. As a result, many software programs are being developed such as Matlab, Mathematica, Maple etc. the most difficult problems in an effective and simple way. These software's contain functions that use standard numeric methods, in which the user can bypass the required parameters and obtain the results in a single command without knowing the numerical details. Its procedural oriented approach makes easy to write computer algorithm.",
     "experiments": [
     {
-        "name": "Hypothesis testing: the one sample z test",
+        "name": "Hypothesis Testing The One Sample Z test",
         "short-name": "one-sample-z-test",
         "repo": "https://github.com/virtual-labs/exp-z-test-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: the one sample t test",
+        "name": "Hypothesis Testing The One Sample T test",
         "short-name": "one-sample-t-test",
         "repo": "https://github.com/virtual-labs/exp-t-test-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: the chi square test + conf interval",
+        "name": "Hypothesis Testing The Chi Square Test + Conf Interval",
         "short-name": "chi-square-test",
         "repo": "https://github.com/virtual-labs/exp-chi-square-test-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: testing the proportion of a Binomially distributed variable",
+        "name": "Hypothesis Testing Testing the Proportion of a Binomially Distributed Variable",
         "short-name": "proportion-binomially",
         "repo": "https://github.com/virtual-labs/exp-proportion-binomially-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: Comparing the means of two populations (variances known)",
+        "name": "Hypothesis Testing Comparing the Means of Two Populations (variances known)",
         "short-name": "comparing-populations",
         "repo": "https://github.com/virtual-labs/exp-comparing-populations-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: Comparing the means of two populations: variances unknown but assumed equal",
+        "name": "Hypothesis Testing Comparing the Means of Two Populations Variances Unknown But Assumed Equal",
         "short-name": "means-populations-equal",
         "repo": "https://github.com/virtual-labs/exp-means-populations-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: Comparing the variances of two populations (the F test)",
+        "name": "Hypothesis Testing Comparing the Variances of Two Populations (F Test)",
         "short-name": "populations-f-test",
         "repo": "https://github.com/virtual-labs/exp-populations-f-test-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: Comparing Means of two populations: variances unknown but assumed unequal",
+        "name": "Hypothesis Testing Comparing Means of two populations: variances unknown but assumed unequal",
         "short-name": "means-populations-unequal",
         "repo": "https://github.com/virtual-labs/exp-means-populations-unequal-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis Testing: The paired t test",
+        "name": "Hypothesis Testing The paired T test",
         "short-name": "paired-t-test",
         "repo": "https://github.com/virtual-labs/exp-paired-t-test-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hypothesis testing: One-way ANOVA",
+        "name": "Hypothesis Testing One-way ANOVA",
         "short-name": "one-way-anova",
         "repo": "https://github.com/virtual-labs/exp-one-way-anova-iitb",
         "tag": "v1.0.0",
